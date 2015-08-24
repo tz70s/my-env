@@ -2,9 +2,9 @@
 sudo apt-get install git
 
 #install TextEditor
-sh setupTextEditor.sh
+sh ./Script/setupTextEditor.sh
 
 #install Python Packages
-sh setupPyPackages.sh
+sh ./Script/setupPyPackages.sh
 
 echo "Finished!"

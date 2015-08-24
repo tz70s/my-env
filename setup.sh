@@ -1,3 +1,6 @@
+#install github first
+sudo apt-get install git
+
 #install TextEditor
 sh setupTextEditor.sh
 

@@ -30,3 +30,7 @@ nano
 nano ~/.bash_profile
 #call
 source ~/.bash_profile
+#alias cool!!(in bash file)
+alias targetcall = "originalcall"
+#export
+export PS1=">> "

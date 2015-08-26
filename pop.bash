@@ -12,5 +12,5 @@ while true; do
 	esac
 done
 echo "Have a nice coding day!"
-sleep 2
+sleep 1
 clear

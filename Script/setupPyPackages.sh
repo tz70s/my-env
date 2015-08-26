@@ -6,6 +6,9 @@ sudo apt-get install python-pip
 sudo pip install virtualenv
 #install Django Web Framework
 sudo pip install django
+#install Scrapy
+sudo pip install scrapy
+
 clear
 
 python --version

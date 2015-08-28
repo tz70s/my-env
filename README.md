@@ -11,7 +11,7 @@ source .bash_profile
 
 * Packages
 ```Bash
-sh setup.sh
+./setup.sh
 ```
 
 * shell script tutorial

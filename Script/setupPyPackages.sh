@@ -2,14 +2,12 @@
 sudo apt-get install python
 #install package management
 sudo apt-get install python-pip
-#install python virtualenv
-sudo pip install virtualenv
-#install Django Web Framework
-sudo pip install django
-#install Scrapy
-sudo pip install scrapy
+
+
+sudo pip install -r ./requirements/py3.txt
 
 clear
 
 python --version
+python3 --version
 

@@ -1,0 +1,17 @@
+alias p3="python3"
+alias dna="echo "No-Wave""
+alias work="cd ~/Documents"
+alias push="git push origin master"
+while true; do
+	read -p "Do you want to close the touchpad?" yn
+	case $yn in
+		[Yy]* ) sudo modprobe -r psmouse; break;;
+		[Nn]* ) break;;
+		* ) echo "Please answer yes or no.";;
+	esac
+done
+echo "Have a nice coding day!"
+sleep 1
+clear
+
+

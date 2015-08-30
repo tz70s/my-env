@@ -6,7 +6,9 @@
 
 * Close annoying touchpad && alias
 ```Bash
-source .bash_profile
+cp -n bash_alias ~/.bashrc
+cp -n bash_alias ~/.bash_profile
+source ~/.bashrc && ~/.bash_profile
 ```
 
 * Packages

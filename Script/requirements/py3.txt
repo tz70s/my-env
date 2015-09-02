@@ -1,4 +1,2 @@
-numpy
-virtualenv
-scrapy
 django
+

@@ -16,6 +16,13 @@ source ~/.bashrc && ~/.bash_profile
 ./setup.sh
 ```
 
+* Create Python Virtual Environment (using python3)
+```Bash
+cd Script
+./setupVENV.sh VIRTUAL_ENVS_DIRECTOR_NAME_YOU_WANT
+
+#add requirments in requirment/py3.txt 
+```
 * shell script tutorial
 ```Bash
 vim shell_tutorial.sh

@@ -4,7 +4,7 @@
 
 ![image](https://github.com/tz70s/myEnv/blob/master/Image/hqdefault.jpg)
 
-* Close annoying touchpad && alias
+* aliases
 ```Bash
 cp -n bash_alias ~/.bashrc
 cp -n bash_alias ~/.bash_profile
@@ -24,7 +24,7 @@ cd Script
 #add requirments in requirment/py3.txt 
 ```
 * Create Go Workspace
-[Guide](http://tz70s.github.io./2015/09/08/gvm-golang-tool/)
+    * [Guide](http://tz70s.github.io./2015/09/08/gvm-golang-tool/)
 
 * shell script tutorial
 ```Bash

@@ -7,4 +7,8 @@ sh ./Script/setupTextEditor.sh
 #install Python Packages
 sh ./Script/setupPyPackages.sh
 
+#install Go (gvm)
+sh ./Script/setupGo.sh
+
+
 echo "Finished!"

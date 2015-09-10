@@ -1,17 +1,9 @@
-alias p3="python3"
+#some aliases I defined
 alias dna="echo "No-Wave""
-alias work="cd ~/Documents"
-alias push="git push origin master"
-while true; do
-	read -p "Do you want to close the touchpad?" yn
-	case $yn in
-		[Yy]* ) sudo modprobe -r psmouse; break;;
-		[Nn]* ) break;;
-		* ) echo "Please answer yes or no.";;
-	esac
-done
-echo "Have a nice coding day!"
-sleep 1
-clear
+alias p3='cd ~/Documents/work-space/p3VENV'
+alias work='cd ~/Documents/work-space'
+alias ptt='luit -encoding big5 telnet ptt.cc'
+alias gogo='cd ~/Documents/work-space/GoE'
+alias book='cd ~/Documents/Books'
 
 

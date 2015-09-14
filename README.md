@@ -25,7 +25,8 @@ cd Script
 ```
 * Create Go Workspace
     * [Guide](http://tz70s.github.io./2015/09/08/gvm-golang-tool/)
-
+    * [gvp](https://github.com/pote/gvp)
+    * GoSublime Package (autocompletion) , remove user-settings of go path
 * shell script tutorial
 ```Bash
 vim shell_tutorial.sh

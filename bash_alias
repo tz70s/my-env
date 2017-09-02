@@ -1,9 +1,0 @@
-#some aliases I defined
-alias dna="echo "No-Wave""
-alias p3='cd ~/Documents/work-space/p3VENV'
-alias work='cd ~/Documents/work-space'
-alias ptt='luit -encoding big5 telnet ptt.cc'
-alias gogo='cd ~/Documents/work-space/GoE'
-alias book='cd ~/Documents/Books'
-
-
